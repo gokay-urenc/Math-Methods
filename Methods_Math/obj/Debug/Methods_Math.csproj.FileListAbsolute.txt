@@ -1,0 +1,20 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Math\Methods_Math\bin\Debug\Methods_Math.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Math\Methods_Math\bin\Debug\Methods_Math.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Math\Methods_Math\bin\Debug\Methods_Math.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Math\Methods_Math\obj\Debug\Methods_Math.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Math\Methods_Math\obj\Debug\Methods_Math.Form1.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Math\Methods_Math\obj\Debug\Methods_Math.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Math\Methods_Math\obj\Debug\Methods_Math.csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Math\Methods_Math\obj\Debug\Methods_Math.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Math\Methods_Math\obj\Debug\Methods_Math.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Math\Methods_Math\obj\Debug\Methods_Math.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Math\Methods_Math\bin\Debug\Methods_Math.exe.config
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Math\Methods_Math\bin\Debug\Methods_Math.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Math\Methods_Math\bin\Debug\Methods_Math.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Math\Methods_Math\obj\Debug\Methods_Math.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Math\Methods_Math\obj\Debug\Methods_Math.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Math\Methods_Math\obj\Debug\Methods_Math.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Math\Methods_Math\obj\Debug\Methods_Math.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Math\Methods_Math\obj\Debug\Methods_Math.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Math\Methods_Math\obj\Debug\Methods_Math.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Math\Methods_Math\obj\Debug\Methods_Math.pdb
